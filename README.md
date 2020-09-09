@@ -4,7 +4,7 @@ tool for get info about victim wifi
 that working if you know where your victim alive
 
 steps:
-1) cut the wire from the victim to the internet provider2) 
+1) cut the wire from the victim to the internet provider2
 2) crimp ethernet wire
 3) run this script on your rpi
 4) then insert crimped ethernet wire to rpi
